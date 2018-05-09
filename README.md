@@ -1,1 +1,1 @@
-# relational-savoring-server
+# server-flask-template
